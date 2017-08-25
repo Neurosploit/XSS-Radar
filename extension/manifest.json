@@ -39,7 +39,8 @@
         "src/payloads/general.js",
         "src/payloads/link.js",
         "src/payloads/script.js",
-        "src/payloads/angular.js"
+        "src/payloads/angular.js",
+        "src/payloads/extendedangular.js"
       ]
     }
   ]
