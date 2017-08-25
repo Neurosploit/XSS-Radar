@@ -19,4 +19,9 @@ xssRadar.scanner.contexts = [
     'matches': ['href'],
     'file': 'link.js'
   },
+  {
+    'type' : 'extendedangular',
+    'matches' : ['*'],
+    'file': 'extendedangular.js'
+  }
 ]
